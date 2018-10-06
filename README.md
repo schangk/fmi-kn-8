@@ -8,6 +8,7 @@
    - Навигирайте до  https://github.com/tozka/fmi-kn-8  
    - Натисенте ***Fork*** (горен десен ъгъл)
 3. клонирайте вашия форк локално на вашата машина:
+   - Вижте снимкта от къде да вземете адреса - https://cdn.pbrd.co/images/HHdx5Sn.png
    - `git clone https://github.com/[MY-GITHUB-ID]/fmi-kn-8.git`
 
 ## Example git commands
