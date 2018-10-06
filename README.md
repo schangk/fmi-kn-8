@@ -4,7 +4,7 @@
 1. Съсздайте си акаунт ako нямата
 2. Направете FORK на репозиторито
 3. клонирайте вашия форк 
-   - `git clone https://github.com/[MY-GITHUB-ID]/fmi-kn-8.git
+   - `git clone https://github.com/[MY-GITHUB-ID]/fmi-kn-8.git`
 
 ## Example git commands
 ```
