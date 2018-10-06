@@ -1,6 +1,10 @@
 # fmi-kn-8
 
-## Fork the repository
+## First steps
+1. Съсздайте си акаунт ako нямата
+2. Направете FORK на репозиторито
+3. клонирайте вашия форк 
+   - `git clone https://github.com/[MY-GITHUB-ID]/fmi-kn-8.git
 
 ## Example git commands
 ```
@@ -11,6 +15,8 @@ git commit -m "commit message"
 git push origin master
 
 ```
+
+
 
 ## Tools
 
