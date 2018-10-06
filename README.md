@@ -5,8 +5,8 @@
 ## First steps
 1. Създайте си акаунт ако нямата - https://github.com/join
 2. Направете FORK (копиране) на репозиторито
-  - Навигирайте до  https://github.com/tozka/fmi-kn-8  
-  - Натисенте ***Fork*** (горен десен ъгъл)
+   - Навигирайте до  https://github.com/tozka/fmi-kn-8  
+   - Натисенте ***Fork*** (горен десен ъгъл)
 3. клонирайте вашия форк локално на вашата машина:
    - `git clone https://github.com/[MY-GITHUB-ID]/fmi-kn-8.git`
 
