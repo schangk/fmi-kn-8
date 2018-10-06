@@ -1,6 +1,6 @@
 # fmi-kn-8
 
-Оригинално: https://github.com/tozka/fmi-kn-8 
+<a href="https://github.com/tozka/fmi-kn-8 " target="blank">https://github.com/tozka/fmi-kn-8</a> 
 
 ## First steps
 1. Създайте си акаунт ако нямата - https://github.com/join
