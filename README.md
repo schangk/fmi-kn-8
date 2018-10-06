@@ -3,9 +3,9 @@
 <a href="https://github.com/tozka/fmi-kn-8" target="_blank">https://github.com/tozka/fmi-kn-8</a> 
 
 ## First steps
-1. Създайте си акаунт ако нямата - https://github.com/join
+1. Създайте си акаунт ако нямата - използайте:  <a href="https://github.com/join" target="_blank">https://github.com/join</a> 
 2. Направете FORK (копиране) на репозиторито
-   - Навигирайте до  https://github.com/tozka/fmi-kn-8  
+   - Навигирайте до https://github.com/tozka/fmi-kn-8  
    - Натисенте ***Fork*** (горен десен ъгъл)
 3. клонирайте вашия форк локално на вашата машина:
    - Вижте снимкта от къде да вземете адреса - https://cdn.pbrd.co/images/HHdx5Sn.png
