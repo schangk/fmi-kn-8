@@ -31,3 +31,6 @@ git pull --rebase origin master
 
 - Git GUI for Windows - https://tortoisegit.org/ 
 
+
+## Resources
+- Visual Studio IDE video - https://www.youtube.com/watch?v=_r5i5ZtUpUM
