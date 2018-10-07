@@ -25,6 +25,9 @@ git pull --rebase origin master
 
 ```
 
+Git command line tutorial - https://www.youtube.com/watch?v=HVsySz-h9r4&t=1495s
+
+Git GUI tutorial: https://www.youtube.com/watch?v=HVsySz-h9r4&t=1495s
 
 
 ## Tools
@@ -34,7 +37,13 @@ git pull --rebase origin master
 
 ## Resources
 - Visual Studio IDE video - https://www.youtube.com/watch?v=_r5i5ZtUpUM
+- Visual Studio pdf - https://docs.google.com/document/d/1WEI5DeEieYOL4B8n7UeWcIDKHJdUDbzJlLgdZ3so66E/edit
+- CodeBlocks pdf - https://docs.google.com/document/d/1GBMYidkqyJvlCTxr9OU0Mxcs26_1ray8tRdpXWESZDs/edit
 - Лекции - https://learn.fmi.uni-sofia.bg/course/view.php?id=4671
+- Полезни източници:
+   - https://www.learncpp.com/
+   - https://en.cppreference.com/w/cpp/
+   - http://www.cplusplus.com/reference/
 
 - Допълнително сайтове с проблеми за програмиране: 
    [HackerRank](https://www.hackerrank.com/domains/cpp?filters%5Bsubdomains%5D%5B%5D=cpp-introduction), [ProjectEuler](https://projecteuler.net/archives), [Spoj](https://www.spoj.com/problems/classical)
@@ -43,3 +52,4 @@ git pull --rebase origin master
 ## Contacts
 
 - Антони - antonii@uni-sofia.bg
+- Давид  - dmarkov91@gmail.com
