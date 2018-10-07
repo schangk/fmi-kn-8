@@ -15,7 +15,7 @@
 
 ## Example git commands
 ```
-git clone https://github.com/tozka/fmi-kn-8.git
+git clone https://github.com/[MY-GIT-ID-HERE]/fmi-kn-8.git
 
 # Add my changes 
 git add new_file.cpp
