@@ -44,10 +44,13 @@ Git GUI tutorial: https://www.youtube.com/watch?v=HVsySz-h9r4&t=1495s
    - https://www.learncpp.com/
    - https://en.cppreference.com/w/cpp/
    - http://www.cplusplus.com/reference/
+   - [Stackoverflow c++ questions](https://stackoverflow.com/questions/tagged/c%2b%2b?sort=votes&pageSize=50)
+
 
 - Допълнително сайтове с проблеми за програмиране: 
    [HackerRank](https://www.hackerrank.com/domains/cpp?filters%5Bsubdomains%5D%5B%5D=cpp-introduction), [ProjectEuler](https://projecteuler.net/archives), [Spoj](https://www.spoj.com/problems/classical)
    
+- **http://google.com** !!!
 
 ## Contacts
 
