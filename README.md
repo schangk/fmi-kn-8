@@ -16,7 +16,7 @@
 git clone https://github.com/tozka/fmi-kn-8.git
 
 # Add my changes 
-git add new_file
+git add new_file.cpp
 git commit -m "commit message"
 git push origin master
 
