@@ -37,7 +37,7 @@ git pull --rebase origin master
 - Лекции - https://learn.fmi.uni-sofia.bg/course/view.php?id=4671
 
 - Допълнително сайтове с проблеми за програмиране: 
-   [HackerRank](https://www.hackerrank.com/domains/cpp?filters%5Bsubdomains%5D%5B%5D=cpp-introduction), [ProjectEuler](https://projecteuler.net/archives), [CoderByte](https://www.coderbyte.com), [Spoj](https://www.spoj.com/problems/classical)
+   [HackerRank](https://www.hackerrank.com/domains/cpp?filters%5Bsubdomains%5D%5B%5D=cpp-introduction), [ProjectEuler](https://projecteuler.net/archives), [Spoj](https://www.spoj.com/problems/classical)
    
 
 ## Contacts
