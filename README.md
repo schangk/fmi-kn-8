@@ -3,15 +3,15 @@
 <a href="https://github.com/tozka/fmi-kn-8" target="_blank">https://github.com/tozka/fmi-kn-8</a> 
 
 ## First steps
-1. Създайте си акаунт ако нямата. Използайте:  <a href="https://github.com/join" target="_blank">https://github.com/join</a> 
+1. Създайте си акаунт ако нямата. Използайте:  <a href="https://github.com/join" target="_blank">https://github.com/join</a> (в стъпка 2 изберете Free опцията, пропуснете ("skip") стъпка 3)
 2. Направете FORK (копиране) на репозиторито
    - Навигирайте до https://github.com/tozka/fmi-kn-8  
    - Натиснете ***Fork*** (горен десен ъгъл)
 3. Клонирайте вашият форк локално на вашата машина (в някоя директория):
    - Навигирайте до някоя директория и отворете command prompt - вижте как [тука](https://i.kinja-img.com/gawker-media/image/upload/s--EEI7Uye1--/c_scale,fl_progressive,q_80,w_800/dps1xekz8eyscjw20u3v.mp4)
    - Вижте снимката от къде да вземете адреса - https://cdn.pbrd.co/images/HHdx5Sn.png 
-   - `git clone https://github.com/[MY-GITHUB-ID]/fmi-kn-8.git`
-- Когато създавате проект после, сложете като Location -  където сте клонирали вашия форк.
+   - `git clone https://github.com/[MY-GITHUB-ID]/fmi-kn-8.git` (ще бъде създадена директория fmi-kn-8)
+- Когато създавате проект после, сложете като Location -  където сте клонирали вашия форк .
 
 ## Example git commands
 ```
