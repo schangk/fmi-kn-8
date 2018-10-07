@@ -35,3 +35,7 @@ git pull --rebase origin master
 ## Resources
 - Visual Studio IDE video - https://www.youtube.com/watch?v=_r5i5ZtUpUM
 - Лекции - https://learn.fmi.uni-sofia.bg/course/view.php?id=4671
+
+## Contacts
+
+- Антони - antonii@uni-sofia.bg
